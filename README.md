@@ -16,7 +16,7 @@ $ go get github.com/stuartaroth/tubular
 
 *tubular* requires clients to create a slice of Page:
 
-[Cueball interface](https://godoc.org/github.com/stuartaroth/tubular#Page)
+[Page](https://godoc.org/github.com/stuartaroth/tubular#Page)
 
 ```go
 type Page struct {
